@@ -37,3 +37,7 @@
 * log4jjavaclass.yara - Hunts for references to Log4J java in class form
 * log4jjavasrc.yara - Hunts for references to Log4J java in source form
 * log4jimport.yara - Hunts for references to Log4J imports
+
+## Source code to check
+
+* https://codesearch.debian.net/search?q=log4j&literal=1&perpkg=1
