@@ -26,8 +26,8 @@
 
 ## Dirty checks
 
-* find / -iname "*log4j*"
-* grep -rq log4j <path>
+* find /path/to/check -iname "*log4j*"
+* grep -rq log4j /path/to/check && echo log4j matches
 
 ## Yara rules
 
