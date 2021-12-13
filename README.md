@@ -22,7 +22,7 @@
 * c:\Program Files
 * c:\Program Files (x86)
 * c:\Documents and Settings
-* c:\User
+* c:\Users
 
 ## Dirty checks
 
