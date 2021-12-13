@@ -1,0 +1,3 @@
+[submodule "yara/CVE-2021-44228"]
+	path = yara/CVE-2021-44228
+	url = https://github.com/darkarnium/CVE-2021-44228
