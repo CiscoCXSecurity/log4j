@@ -1,3 +1,6 @@
 [submodule "yara/CVE-2021-44228"]
 	path = yara/CVE-2021-44228
 	url = https://github.com/darkarnium/CVE-2021-44228
+[submodule "samples/CVE-2021-44228-Log4Shell-Hashes"]
+	path = samples/CVE-2021-44228-Log4Shell-Hashes
+	url = https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes
