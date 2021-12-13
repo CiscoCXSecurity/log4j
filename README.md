@@ -37,6 +37,7 @@
 * log4jjavaclass.yara - Hunts for references to Log4J java in class form
 * log4jjavasrc.yara - Hunts for references to Log4J java in source form
 * log4jimport.yara - Hunts for references to Log4J imports
+* log4jJndiLookup.yara - Hunts for references to Log4J JndiLookup
 
 ## Source code to check
 
