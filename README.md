@@ -1,5 +1,9 @@
 # log4j
 
+## Kick banning attacks at the WAF
+
+Block ```.*\$\{.+\}.*```
+
 ## Paths to check
 
 ### UNIX
