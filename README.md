@@ -2,36 +2,36 @@
 
 ## Kick banning attacks at the WAF
 
-Block ```.*\$\{.+\}.*```
+* Block ```.*\$\{.+\}.*```
 
 ## Paths to check
 
 ### UNIX
 
-* /opt
-* /usr/local
-* /home
+* ```/opt```
+* ```/usr/local```
+* ```/home```
 
 ### OS X
 
 (see also UNIX)
 
-* /Applications
-* /Library
-* /Users/*/Applications
-* /Users/*/Library
+* ```/Applications```
+* ```/Library```
+* ```/Users/*/Applications```
+* ```/Users/*/Library```
 
 ### Windows
 
-* c:\Program Files
-* c:\Program Files (x86)
-* c:\Documents and Settings
-* c:\Users
+* ```c:\Program Files```
+* ```c:\Program Files (x86)```
+* ```c:\Documents and Settings```
+* ```c:\Users```
 
 ## Dirty checks
 
-* find /path/to/check -iname "*log4j*"
-* grep -rq log4j /path/to/check && echo log4j matches
+* ```find /path/to/check -iname "*log4j*"```
+* ```grep -rq log4j /path/to/check && echo log4j matches```
 
 ## Yara rules
 
