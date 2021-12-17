@@ -35,6 +35,14 @@
 
 ## Yara rules
 
+Running the rules:
+
+* ```yara -r yara/log4j.yara /path/to/check```
+
+Example here:
+
+* https://gist.github.com/timb-machine/d5ca718201ce294f1e744dbbcf4feaac
+
 ### Personal
 
 * log4jball.yara - Hunts for references to Log4J balls
