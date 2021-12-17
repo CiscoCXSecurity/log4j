@@ -1,4 +1,4 @@
-# [log4j] (https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html)
+# [log4j](https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html)
 
 ![](https://img.shields.io/badge/last--updated-December%202021%20-green) ![](https://img.shields.io/badge/src-public-orange)
 
