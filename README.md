@@ -1,4 +1,8 @@
-# log4j
+# [log4j] (https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html)
+
+![](https://img.shields.io/badge/last--updated-December%202021%20-green) ![](https://img.shields.io/badge/src-public-orange)
+
+[Rolling 2 day view of updates from this repo](https://github.com/timb-machine/log4j/compare/main@%7B2day%7D...main)
 
 ## Kick banning attacks at the WAF
 
