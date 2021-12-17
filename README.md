@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/last--updated-December%202021%20-green) ![](https://img.shields.io/badge/src-public-orange)
 
-[Rolling 2 day view of updates from this repo](https://github.com/timb-machine/log4j/compare/main@%7B2day%7D...main)
+[Rolling 2 day view of updates from this repo](https://github.com/timb-machine/log4j/compare/master@%7B2day%7D...master)
 
 ## Kick banning attacks at the WAF
 
