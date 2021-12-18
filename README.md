@@ -8,6 +8,8 @@
 
 * Block ```\$\{.+\}```
 
+Note: Some of the public WAF regular expressions out there are probably vulnerable to ReDoS. If you want to play, https://regex101.com/r/KqGG3W/3 is a decent playground but you want to keep the number of steps as low as possible.
+
 ## Paths to check
 
 ### UNIX
