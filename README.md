@@ -36,6 +36,8 @@
 
 * ```find /path/to/check -iname "*log4j*"```
 * ```grep -rq log4j /path/to/check && echo log4j matches```
+* ```find /path/to/check \( -iname "*.?ar" -o -iname "*.zip" \) | while read line; do echo $line; jar tvf $line | grep -i log4j; done```
+* ```find /path/to/check \( -iname "*.tar.bz2" -o -iname "*.tar.bz2" \) | while read line; do echo $line; tar tvf $line | grep -i log4j; done```
 
 ## Yara rules
 
