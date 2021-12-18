@@ -6,7 +6,7 @@
 
 ## Kick banning attacks at the WAF
 
-* Block ```.*\$\{.+\}.*```
+* Block ```\$\{.+\}```
 
 ## Paths to check
 
